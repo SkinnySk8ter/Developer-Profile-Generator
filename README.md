@@ -36,3 +36,5 @@ SO THAT I can easily prepare reports for stakeholders
 
 My initial go at this project was a bit of horrible attempt. I had to reach out for help at a much later date in order to complete this assignment. 
 BIG BIG BIG thanks to fellow classmate Colin for Walking me through this to give me a better understanding of the core concepts and being able to see it done!
+
+![developerpdfsnip](https://user-images.githubusercontent.com/54759646/77814982-81955000-708c-11ea-814c-f81152979b7c.JPG)
